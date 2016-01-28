@@ -1,0 +1,2 @@
+#FREIFUNK-NORD-Favicons V1
+
