@@ -1,2 +1,2 @@
-#FREIFUNK-NORD-Logos
+#FREIFUNK-NORD-Logos und mehr
 
