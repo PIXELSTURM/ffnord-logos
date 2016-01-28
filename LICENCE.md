@@ -1,2 +1,0 @@
-#FREIFUNK-NORD-Logos
-
