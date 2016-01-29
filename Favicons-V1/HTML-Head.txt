@@ -1,5 +1,4 @@
-<head>
-...
+<!-- Insert inside the html-head section -->
 <link rel="apple-touch-icon" sizes="57x57" href="/favicons/apple-touch-icon-57x57.png">
 <link rel="apple-touch-icon" sizes="60x60" href="/favicons/apple-touch-icon-60x60.png">
 <link rel="apple-touch-icon" sizes="72x72" href="/favicons/apple-touch-icon-72x72.png">
@@ -18,5 +17,4 @@
 <meta name="msapplication-TileColor" content="#ffffff">
 <meta name="msapplication-TileImage" content="/favicons/mstile-144x144.png">
 <meta name="theme-color" content="#ffffff">
-...
-</head>
+<!-- eof -->
