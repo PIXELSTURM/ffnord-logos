@@ -6,4 +6,5 @@ die über Jahre die Initiative transportiert und vorangebracht haben. Sie haben 
 Danke!
 
 
-Freigegeben unter Creative Commons 3.0.
+Freigegeben unter CC BY-NC-ND 3.0 DE.
+
