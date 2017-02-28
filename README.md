@@ -1,2 +1,2 @@
-#FREIFUNK-NORD-Logos und mehr
+#FFNORD-Logos und mehr
 
