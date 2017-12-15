@@ -8,3 +8,6 @@ Danke!
 
 Freigegeben unter CC BY-NC-ND 3.0 DE.
 
+![img](FFNORD-LOGO-V1-Preview.jpg)
+
+
